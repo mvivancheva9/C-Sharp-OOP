@@ -1,0 +1,6 @@
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem20.InfiniteConvergentSeries\bin\Debug\Problem20.InfiniteConvergentSeries.exe.config
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem20.InfiniteConvergentSeries\bin\Debug\Problem20.InfiniteConvergentSeries.exe
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem20.InfiniteConvergentSeries\bin\Debug\Problem20.InfiniteConvergentSeries.pdb
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem20.InfiniteConvergentSeries\obj\Debug\Problem20.InfiniteConvergentSeries.csprojResolveAssemblyReference.cache
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem20.InfiniteConvergentSeries\obj\Debug\Problem20.InfiniteConvergentSeries.exe
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem20.InfiniteConvergentSeries\obj\Debug\Problem20.InfiniteConvergentSeries.pdb

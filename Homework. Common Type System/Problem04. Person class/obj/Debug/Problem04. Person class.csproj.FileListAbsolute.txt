@@ -1,0 +1,5 @@
+E:\OOP\Homeworks'15\Homework. Common Type System\Problem04. Person class\bin\Debug\Problem04.Person_class.exe.config
+E:\OOP\Homeworks'15\Homework. Common Type System\Problem04. Person class\bin\Debug\Problem04.Person_class.exe
+E:\OOP\Homeworks'15\Homework. Common Type System\Problem04. Person class\bin\Debug\Problem04.Person_class.pdb
+E:\OOP\Homeworks'15\Homework. Common Type System\Problem04. Person class\obj\Debug\Problem04.Person_class.exe
+E:\OOP\Homeworks'15\Homework. Common Type System\Problem04. Person class\obj\Debug\Problem04.Person_class.pdb

@@ -1,0 +1,6 @@
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem03-04-05\bin\Debug\Problem03-04-05.exe.config
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem03-04-05\obj\Debug\Problem03-04-05.csprojResolveAssemblyReference.cache
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem03-04-05\bin\Debug\Problem03-04-05.exe
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem03-04-05\bin\Debug\Problem03-04-05.pdb
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem03-04-05\obj\Debug\Problem03-04-05.exe
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem03-04-05\obj\Debug\Problem03-04-05.pdb

@@ -1,0 +1,6 @@
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem01. StringBuilderSubstring\bin\Debug\Problem01.StringBuilderSubstring.exe.config
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem01. StringBuilderSubstring\obj\Debug\Problem01. StringBuilderSubstring.csprojResolveAssemblyReference.cache
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem01. StringBuilderSubstring\bin\Debug\Problem01.StringBuilderSubstring.exe
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem01. StringBuilderSubstring\bin\Debug\Problem01.StringBuilderSubstring.pdb
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem01. StringBuilderSubstring\obj\Debug\Problem01.StringBuilderSubstring.exe
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem01. StringBuilderSubstring\obj\Debug\Problem01.StringBuilderSubstring.pdb

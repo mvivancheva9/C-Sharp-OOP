@@ -1,0 +1,6 @@
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem02. IEnumerable extensions\bin\Debug\Problem02.IEnumerable_extensions.exe.config
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem02. IEnumerable extensions\bin\Debug\Problem02.IEnumerable_extensions.exe
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem02. IEnumerable extensions\bin\Debug\Problem02.IEnumerable_extensions.pdb
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem02. IEnumerable extensions\obj\Debug\Problem02. IEnumerable extensions.csprojResolveAssemblyReference.cache
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem02. IEnumerable extensions\obj\Debug\Problem02.IEnumerable_extensions.exe
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem02. IEnumerable extensions\obj\Debug\Problem02.IEnumerable_extensions.pdb

@@ -1,0 +1,6 @@
+E:\OOP\Homeworks'15\DefiningClassesPart1\GSMTest\obj\Debug\DefiningClassesPArt1.csprojResolveAssemblyReference.cache
+E:\OOP\Homeworks'15\DefiningClassesPart1\GSMTest\bin\Debug\GSMTest.exe.config
+E:\OOP\Homeworks'15\DefiningClassesPart1\GSMTest\bin\Debug\GSMTest.exe
+E:\OOP\Homeworks'15\DefiningClassesPart1\GSMTest\bin\Debug\GSMTest.pdb
+E:\OOP\Homeworks'15\DefiningClassesPart1\GSMTest\obj\Debug\GSMTest.exe
+E:\OOP\Homeworks'15\DefiningClassesPart1\GSMTest\obj\Debug\GSMTest.pdb

@@ -1,0 +1,6 @@
+E:\OOP\Homeworks'15\Homework. OOP Principles - Part 1\Problem02.StudentsAndWorkers\bin\Debug\Problem02.StudentsAndWorkers.exe.config
+E:\OOP\Homeworks'15\Homework. OOP Principles - Part 1\Problem02.StudentsAndWorkers\bin\Debug\Problem02.StudentsAndWorkers.exe
+E:\OOP\Homeworks'15\Homework. OOP Principles - Part 1\Problem02.StudentsAndWorkers\bin\Debug\Problem02.StudentsAndWorkers.pdb
+E:\OOP\Homeworks'15\Homework. OOP Principles - Part 1\Problem02.StudentsAndWorkers\obj\Debug\Problem02.StudentsAndWorkers.exe
+E:\OOP\Homeworks'15\Homework. OOP Principles - Part 1\Problem02.StudentsAndWorkers\obj\Debug\Problem02.StudentsAndWorkers.pdb
+E:\OOP\Homeworks'15\Homework. OOP Principles - Part 1\Problem02.StudentsAndWorkers\obj\Debug\Problem02.StudentsAndWorkers.csprojResolveAssemblyReference.cache

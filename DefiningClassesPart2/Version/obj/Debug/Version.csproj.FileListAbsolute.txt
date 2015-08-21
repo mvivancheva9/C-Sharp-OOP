@@ -1,0 +1,5 @@
+E:\OOP\Homeworks'15\DefiningClassesPart2\Version\bin\Debug\Version.exe.config
+E:\OOP\Homeworks'15\DefiningClassesPart2\Version\bin\Debug\Version.exe
+E:\OOP\Homeworks'15\DefiningClassesPart2\Version\bin\Debug\Version.pdb
+E:\OOP\Homeworks'15\DefiningClassesPart2\Version\obj\Debug\Version.exe
+E:\OOP\Homeworks'15\DefiningClassesPart2\Version\obj\Debug\Version.pdb

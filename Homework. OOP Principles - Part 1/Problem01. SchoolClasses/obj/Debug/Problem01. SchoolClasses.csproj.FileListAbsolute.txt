@@ -1,0 +1,6 @@
+E:\OOP\Homeworks'15\Homework. OOP Principles - Part 1\Problem01. SchoolClasses\bin\Debug\Problem01.SchoolClasses.exe.config
+E:\OOP\Homeworks'15\Homework. OOP Principles - Part 1\Problem01. SchoolClasses\bin\Debug\Problem01.SchoolClasses.exe
+E:\OOP\Homeworks'15\Homework. OOP Principles - Part 1\Problem01. SchoolClasses\bin\Debug\Problem01.SchoolClasses.pdb
+E:\OOP\Homeworks'15\Homework. OOP Principles - Part 1\Problem01. SchoolClasses\obj\Debug\Problem01.SchoolClasses.exe
+E:\OOP\Homeworks'15\Homework. OOP Principles - Part 1\Problem01. SchoolClasses\obj\Debug\Problem01.SchoolClasses.pdb
+E:\OOP\Homeworks'15\Homework. OOP Principles - Part 1\Problem01. SchoolClasses\obj\Debug\Problem01. SchoolClasses.csprojResolveAssemblyReference.cache

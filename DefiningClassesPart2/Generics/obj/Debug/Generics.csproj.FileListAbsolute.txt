@@ -1,0 +1,5 @@
+E:\OOP\Homeworks'15\DefiningClassesPart2\Generics\bin\Debug\Generics.exe.config
+E:\OOP\Homeworks'15\DefiningClassesPart2\Generics\bin\Debug\Generics.exe
+E:\OOP\Homeworks'15\DefiningClassesPart2\Generics\bin\Debug\Generics.pdb
+E:\OOP\Homeworks'15\DefiningClassesPart2\Generics\obj\Debug\Generics.exe
+E:\OOP\Homeworks'15\DefiningClassesPart2\Generics\obj\Debug\Generics.pdb

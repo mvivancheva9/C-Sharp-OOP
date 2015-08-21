@@ -1,0 +1,6 @@
+E:\OOP\Homeworks'15\Homework - Principles of OOP - part II\Problem01. Shapes\bin\Debug\Problem01.Shapes.exe.config
+E:\OOP\Homeworks'15\Homework - Principles of OOP - part II\Problem01. Shapes\obj\Debug\Problem01. Shapes.csprojResolveAssemblyReference.cache
+E:\OOP\Homeworks'15\Homework - Principles of OOP - part II\Problem01. Shapes\bin\Debug\Problem01.Shapes.exe
+E:\OOP\Homeworks'15\Homework - Principles of OOP - part II\Problem01. Shapes\bin\Debug\Problem01.Shapes.pdb
+E:\OOP\Homeworks'15\Homework - Principles of OOP - part II\Problem01. Shapes\obj\Debug\Problem01.Shapes.exe
+E:\OOP\Homeworks'15\Homework - Principles of OOP - part II\Problem01. Shapes\obj\Debug\Problem01.Shapes.pdb

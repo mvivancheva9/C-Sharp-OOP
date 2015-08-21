@@ -1,0 +1,6 @@
+E:\OOP\Homeworks'15\Homework. Common Type System\Problem05. BitArray\bin\Debug\Problem05.BitArray.exe.config
+E:\OOP\Homeworks'15\Homework. Common Type System\Problem05. BitArray\bin\Debug\Problem05.BitArray.exe
+E:\OOP\Homeworks'15\Homework. Common Type System\Problem05. BitArray\bin\Debug\Problem05.BitArray.pdb
+E:\OOP\Homeworks'15\Homework. Common Type System\Problem05. BitArray\obj\Debug\Problem05. BitArray.csprojResolveAssemblyReference.cache
+E:\OOP\Homeworks'15\Homework. Common Type System\Problem05. BitArray\obj\Debug\Problem05.BitArray.exe
+E:\OOP\Homeworks'15\Homework. Common Type System\Problem05. BitArray\obj\Debug\Problem05.BitArray.pdb

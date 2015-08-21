@@ -1,0 +1,5 @@
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem17. LongestString\bin\Debug\Problem17.LongestString.exe.config
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem17. LongestString\bin\Debug\Problem17.LongestString.exe
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem17. LongestString\bin\Debug\Problem17.LongestString.pdb
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem17. LongestString\obj\Debug\Problem17.LongestString.exe
+E:\OOP\Homeworks'15\Homework02. Extension-Methods-Delegates-Lambda-LINQ\Problem17. LongestString\obj\Debug\Problem17.LongestString.pdb

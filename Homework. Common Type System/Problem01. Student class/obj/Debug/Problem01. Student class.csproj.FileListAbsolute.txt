@@ -1,0 +1,6 @@
+E:\OOP\Homeworks'15\Homework. Common Type System\Problem01. Student class\bin\Debug\Problem01.Student_class.exe.config
+E:\OOP\Homeworks'15\Homework. Common Type System\Problem01. Student class\obj\Debug\Problem01. Student class.csprojResolveAssemblyReference.cache
+E:\OOP\Homeworks'15\Homework. Common Type System\Problem01. Student class\bin\Debug\Problem01.Student_class.exe
+E:\OOP\Homeworks'15\Homework. Common Type System\Problem01. Student class\bin\Debug\Problem01.Student_class.pdb
+E:\OOP\Homeworks'15\Homework. Common Type System\Problem01. Student class\obj\Debug\Problem01.Student_class.exe
+E:\OOP\Homeworks'15\Homework. Common Type System\Problem01. Student class\obj\Debug\Problem01.Student_class.pdb

@@ -1,0 +1,6 @@
+E:\OOP\Homeworks'15\DefiningClassesPart2\DefiningClassesPart2\bin\Debug\DefiningClassesPart2.exe.config
+E:\OOP\Homeworks'15\DefiningClassesPart2\DefiningClassesPart2\obj\Debug\Points3D.csprojResolveAssemblyReference.cache
+E:\OOP\Homeworks'15\DefiningClassesPart2\DefiningClassesPart2\bin\Debug\DefiningClassesPart2.exe
+E:\OOP\Homeworks'15\DefiningClassesPart2\DefiningClassesPart2\bin\Debug\DefiningClassesPart2.pdb
+E:\OOP\Homeworks'15\DefiningClassesPart2\DefiningClassesPart2\obj\Debug\DefiningClassesPart2.exe
+E:\OOP\Homeworks'15\DefiningClassesPart2\DefiningClassesPart2\obj\Debug\DefiningClassesPart2.pdb
